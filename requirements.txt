@@ -1,0 +1,6 @@
+numpy
+simpy
+gymnasium
+matplotlib
+stable-baselines3
+plotly
